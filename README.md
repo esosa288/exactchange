@@ -1,2 +1,1 @@
-# exactchange
-Java program in which you input a dollar amount and get the exact amount in change.
+A list of Java projects I have made for my Java programming class.
